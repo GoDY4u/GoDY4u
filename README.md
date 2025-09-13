@@ -1,8 +1,10 @@
 # Hi, I'm GoDY 👋
 
-Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast  
+Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast | Web & App Developer  
 
-💻 Passionate about scripting, pentesting, and system optimization. Always exploring new ways to improve security and performance.  
+💻 Passionate about scripting, pentesting, system optimization, and building web & desktop applications. Always exploring new ways to improve security, performance, and user experience.  
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -13,7 +15,13 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast
 ![Git](https://img.shields.io/badge/Git-FF0000?logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3+-3776AB?logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-808080?logo=none)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![XAML](https://img.shields.io/badge/XAML-512BD4?logo=none&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 
+---
 
 ## 📈 GitHub Stats
 
@@ -23,4 +31,4 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast
 
 ---
 
-⚡ Always learning and sharing knowledge. Open to collaborations and challenges in pentesting, scripting, and optimization.
+⚡ Always learning and sharing knowledge. Open to collaborations and challenges in pentesting, scripting, web development, and optimization.
