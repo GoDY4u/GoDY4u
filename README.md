@@ -30,7 +30,7 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![WiFi Hacking](https://img.shields.io/badge/WiFi-Hacking-FFAA00) 
 ![Brute Force (Hydra)](https://img.shields.io/badge/Brute%20Force-Hydra-red)
 ![Domain Recon](https://img.shields.io/badge/Domain-Recon-blue)
-![Fuzzing]([https://img.shields.io/badge/Fuzzing-ffuf-purple](https://img.shields.io/badge/Fuzzing-purple))
+![Fuzzing](https://img.shields.io/badge/Fuzzing-purple)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-💥-orange)
 
 
