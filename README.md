@@ -28,8 +28,8 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![Pentesting](https://img.shields.io/badge/Pentesting-⚡-red)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔒-blue)
 ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?logo=nmap&logoColor=white)
-![Wi-Fi Hacking](https://img.shields.io/badge/Wi-Fi-Hacking-yellow?logo=none)
-![HTB](https://img.shields.io/badge/HTB-🏴‍☠️-purple)
+![WiFi Hacking](https://img.shields.io/badge/WiFi-Hacking-FFAA00) 
+![HTB](https://img.shields.io/badge/HTB-000000?logoColor=green)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-💥-orange)
 
 ---
