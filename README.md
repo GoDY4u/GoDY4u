@@ -28,7 +28,11 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔒-blue)
 ![Nmap](https://img.shields.io/badge/Nmap-🔎-007FFF) 
 ![WiFi Hacking](https://img.shields.io/badge/WiFi-Hacking-FFAA00) 
+![Brute Force (Hydra)](https://img.shields.io/badge/Brute%20Force-Hydra-red)
+![Domain Recon](https://img.shields.io/badge/Domain-Recon-blue)
+![Fuzzing](https://img.shields.io/badge/Fuzzing-ffuf-purple)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-💥-orange)
+
 
 ### 🐳 Labs & Containers
 ![HTB Labs](https://img.shields.io/badge/HTB-Labs-black?style=flat-square&logo=hackthebox&logoColor=green) 
