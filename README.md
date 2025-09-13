@@ -18,39 +18,11 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast
 
 ---
 
-## 📂 Featured Projects
-
-### 1. BadPing 🚀💻
-ICMP-based stress test tool for authorized penetration testing.  
-[Repo Link](https://github.com/GoDY4u/BadPing)  
-![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
-
-### 2. PhoneLyzer 📞🕵️‍♂️
-Retrieve phone number info using Bash scripts with Python libphonenumber.  
-[Repo Link](https://github.com/GoDY4u/PhoneLyzer)  
-![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
-
-### 3. Go-Tweak Lite 🚀
-Windows optimization tool using PowerShell & Batch scripts.  
-[Repo Link](https://github.com/GoDY4u/Go-Tweak-Lite)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue.svg)
-![Batch](https://img.shields.io/badge/Batch-Script-yellow.svg)
-
----
-
 ## 📈 GitHub Stats
 
 ![GoDY GitHub stats](https://github-readme-stats.vercel.app/api?username=GoDY4u&show_icons=true&theme=radical&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoDY4u&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GoDY-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GoDY4u/)
-[![Twitter](https://img.shields.io/badge/Twitter-@GoDY-blue?logo=twitter&logoColor=white)](https://twitter.com/GoDY4u)
-[![Email](https://img.shields.io/badge/Email-GoDY4u-red?logo=gmail&logoColor=white)](mailto:tuemail@dominio.com)
 
 ---
 
