@@ -16,7 +16,6 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast
 ![Python](https://img.shields.io/badge/Python-3+-3776AB?logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-808080?logo=none)
 
----
 
 ## 📈 GitHub Stats
 
