@@ -2,8 +2,9 @@
 
 Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast | Web & App Developer  
 
-💻 Passionate about scripting, pentesting, system optimization, and building web & desktop applications. Always exploring new ways to improve security, performance, and user experience.  
+💻 Passionate about scripting, pentesting, system optimization, building web & desktop applications, and experimenting in labs like Hack The Box. Always exploring new ways to improve security, performance, and user experience.  
 
+---
 
 ## 🛠️ Skills & Tools
 
@@ -27,10 +28,14 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-💻-green)
 ![Pentesting](https://img.shields.io/badge/Pentesting-⚡-red)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔒-blue)
-![Nmap](https://img.shields.io/badge/Nmap-00BFFF?logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-🔎-007FFF) 
 ![WiFi Hacking](https://img.shields.io/badge/WiFi-Hacking-FFAA00) 
-![HTB](https://img.shields.io/badge/HTB-000000?logoColor=green)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-💥-orange)
+
+### 🐳 Labs & Containers
+![HTB Labs](https://img.shields.io/badge/HTB-Labs-🟩📦-000000) 
+![Docker](https://img.shields.io/badge/Docker-🐳-2496ED)
+![Docker Labs](https://img.shields.io/badge/DockerLabs-💻-2496ED)
 
 ---
 
