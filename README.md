@@ -2,7 +2,7 @@
 
 Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast | Web & App Developer  
 
-💻 Passionate about scripting, pentesting, system optimization, building web & desktop applications, and experimenting in labs like Hack The Box. Always exploring new ways to improve security, performance, and user experience.  
+💻 Passionate about scripting, pentesting, system optimization, building web & desktop applications, and experimenting in labs like HackTheBox,DockerLabs,Vulnhub,TryHackMe. Always exploring new ways to improve security, performance, and user experience.  
 
 ## 🛠️ Skills & Tools
 
