@@ -4,8 +4,6 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast
 
 💻 Passionate about scripting, pentesting, and system optimization. Always exploring new ways to improve security and performance.  
 
----
-
 ## 🛠️ Skills & Tools
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
