@@ -1,4 +1,4 @@
-# Hi, I'm GoDY 👋
+![Texto alternativo](GoDY-banner.png)
 
 Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast | Web & App Developer  
 
