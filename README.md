@@ -2,8 +2,6 @@
 
 Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast | Web & App Developer  
 
-💻 Passionate about scripting, pentesting, system optimization, building web & desktop applications, and experimenting in labs like HackTheBox,DockerLabs,Vulnhub,TryHackMe. Always exploring new ways to improve security, performance, and user experience.  
-
 ## 🛠️ Skills & Tools
 
 ### 💻 Scripting & Dev
@@ -45,7 +43,3 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![GoDY GitHub stats](https://github-readme-stats.vercel.app/api?username=GoDY4u&show_icons=true&theme=radical&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoDY4u&layout=compact&theme=radical)
-
----
-
-⚡ Always learning and sharing knowledge. Open to collaborations and challenges in pentesting, scripting, web development, and optimization.
