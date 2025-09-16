@@ -28,6 +28,13 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-💻-green)
 ![Pentesting](https://img.shields.io/badge/Pentesting-⚡-red)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔒-blue)
+![Network Security](https://img.shields.io/badge/Network%20Security-🌐-0078D6)
+![Web Security](https://img.shields.io/badge/Web%20Security-🕸️-FF4500)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-🐛-800080)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-🔧-FFA500)
+![OSINT](https://img.shields.io/badge/OSINT-🔍-00CED1)
+![DoS](https://img.shields.io/badge/DoS-Attacks-FF0000)
+![DDoS](https://img.shields.io/badge/DDoS-Attacks-FF4500)
 
 ### 🖥️ Tools & Techniques
 ![Nmap](https://img.shields.io/badge/Nmap-🔎-007FFF)
@@ -36,6 +43,13 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ![Domain Recon](https://img.shields.io/badge/Domain-Recon-blue)
 ![Fuzzing](https://img.shields.io/badge/Fuzzing-🧪-purple)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-💥-orange)
+![Metasploit](https://img.shields.io/badge/Metasploit-💀-990000)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-🕷️-A52A2A)
+![Wireshark](https://img.shields.io/badge/Wireshark-📡-008080)
+![SQL Injection](https://img.shields.io/badge/SQL%20Injection-💉-FF0000)
+![XSS](https://img.shields.io/badge/XSS-💥-FF6347)
+![Password Cracking](https://img.shields.io/badge/Password%20Cracking-🔑-DAA520)
+
 
 ### 🐳 Labs & Containers
 ![HTB Labs](https://img.shields.io/badge/HTB-Labs-black?style=flat-square&logo=hackthebox&logoColor=green) 
