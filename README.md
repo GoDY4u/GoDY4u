@@ -5,15 +5,15 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ## 🛠️ Skills & Tools
 
 ### 💻 Scripting & Dev
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-Scripting-F0DB4F?logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3+-3776AB?logo=python&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-512BD4?logo=none&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![XAML](https://img.shields.io/badge/XAML-512BD4?logo=none&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-Scripting-F0DB4F?logo=windows&logoColor=white)
 
 ### 🖥️ OS & Pentesting
 ![Linux](https://img.shields.io/badge/Linux-Kernel-000000?logo=linux&logoColor=white)
