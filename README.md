@@ -17,24 +17,25 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 
 ### 🖥️ OS & Pentesting
 ![Linux](https://img.shields.io/badge/Linux-Kernel-000000?logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot-OS-3DDC84?logo=parrot&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-10|11-0078D6?logo=windows&logoColor=white)
-![Wifislax](https://img.shields.io/badge/Wifislax-Linux-3D3D3D?logo=wifislax&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=archlinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot-OS-3DDC84?logo=parrot&logoColor=white)
+![Wifislax](https://img.shields.io/badge/Wifislax-Linux-3D3D3D?logo=wifislax&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10|11-0078D6?logo=windows&logoColor=white)
 
-### 🔐 Pentesting & Hacking
+### 🛡️ Cybersecurity & Pentesting
 ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-💻-green)
 ![Pentesting](https://img.shields.io/badge/Pentesting-⚡-red)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔒-blue)
-![Nmap](https://img.shields.io/badge/Nmap-🔎-007FFF) 
-![WiFi Hacking](https://img.shields.io/badge/WiFi-Hacking-FFAA00) 
+
+### 🖥️ Tools & Techniques
+![Nmap](https://img.shields.io/badge/Nmap-🔎-007FFF)
+![WiFi Hacking](https://img.shields.io/badge/WiFi-Hacking-FFAA00)
 ![Brute Force (Hydra)](https://img.shields.io/badge/Brute%20Force-Hydra-red)
 ![Domain Recon](https://img.shields.io/badge/Domain-Recon-blue)
 ![Fuzzing](https://img.shields.io/badge/Fuzzing-🧪-purple)
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-💥-orange)
-
 
 ### 🐳 Labs & Containers
 ![HTB Labs](https://img.shields.io/badge/HTB-Labs-black?style=flat-square&logo=hackthebox&logoColor=green) 
