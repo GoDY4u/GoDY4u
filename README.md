@@ -7,6 +7,7 @@ Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast 
 ### 💻 Scripting & Dev
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-Scripting-F0DB4F?logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3+-3776AB?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
