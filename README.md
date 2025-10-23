@@ -108,7 +108,9 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="gody4utech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail&color=ff0055" /></a>
+  <a href="mailto:gody4utech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail&color=ff0055" alt="Email Me"/>
+  </a>
 </p>
 
 <!-- Divider -->
