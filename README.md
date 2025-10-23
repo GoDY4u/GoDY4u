@@ -38,7 +38,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-Scripting-F0DB4F?logo=windows&logoColor=black)
+![Batch](https://img.shields.io/badge/Batch-Script-F0DB4F?logo=windows&logoColor=black)
 ![C](https://img.shields.io/badge/Script-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
