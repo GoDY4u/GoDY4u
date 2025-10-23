@@ -19,8 +19,6 @@
 <h3 align="center">👾 Pentester | Bash & PowerShell | Windows Optimization Enthusiast | Web & App Developer 👾</h3>
 
 
-
-
 ## 🏆 GitHub Achievements  
 
 <p align="center">
