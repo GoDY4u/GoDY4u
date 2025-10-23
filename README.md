@@ -105,14 +105,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gody4u&theme=radical" height="150px"/>
 </p>
 
-
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="mailto:gody4utech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail&color=ff0055" alt="Email Me"/>
-  </a>
-</p>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
