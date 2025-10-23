@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <strong>### 👾 Pentester | Bash & PowerShell | Windows Optimization Enthusiast | Web & App Developer 👾</strong>
+  <strong>👾 Pentester | Bash & PowerShell | Windows Optimization Enthusiast | Web & App Developer 👾</strong>
 </p>
 
 
