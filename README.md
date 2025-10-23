@@ -38,7 +38,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-Script-F0DB4F?logo=windows&logoColor=black)
+![Batch](https://img.shields.io/badge/Batch-Scripting-F0DB4F?logo=windows&logoColor=black)
 ![C](https://img.shields.io/badge/Script-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
@@ -91,7 +91,7 @@
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-Suite-black)
 ![Nmap](https://img.shields.io/badge/Nmap-🔎-007FFF)
 ![Hydra](https://img.shields.io/badge/Hydra-BruteForce-red)
-![HTB Labs](https://img.shields.io/badge/HTB-Labs-black?style=flat-square&logo=hackthebox&logoColor=green)
+![HTB Labs](https://img.shields.io/badge/HTB-Labs-black?style=square&logo=hackthebox&logoColor=green)
 
 
 ## 📊 GitHub Analytics  
