@@ -79,11 +79,11 @@
 
 
 ### 🧰 Tools & Environments  
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-0078D6?logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot-OS-3DDC84?logo=parrotsecurity&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=archlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch-Linux-A31010?logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Wifislax](https://img.shields.io/badge/Wifislax-Linux-3D3D3D?logo=wifislax&logoColor=white)
+![Wifislax](https://img.shields.io/badge/Wifislax-Linux-000000?logo=wifislax&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10|11-0078D6?logo=windows&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-💀-990000)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-🕷️-A52A2A)
