@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### 👾Pentester | Bash & PowerShell | Cybersecurity & Windows Optimization Enthusiast | Web & App Developer👾
+### 👾Pentester | Bash & PowerShell | Windows Optimization Enthusiast | Web & App Developer👾
 
 
 ## 🏆 GitHub Achievements  
@@ -31,7 +31,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Skills & Tools  
 
@@ -50,7 +49,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![XAML](https://img.shields.io/badge/XAML-512BD4?logo=dotnet&logoColor=white)
 
----
 
 ### 🧩 Frameworks & Databases  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -61,7 +59,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-🐳-2496ED)
 
----
 
 ### 🛡️ Cybersecurity & Pentesting  
 ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-💻-green)
@@ -80,7 +77,6 @@
 ![Fuzzing](https://img.shields.io/badge/Fuzzing-🧪-purple)
 ![Recon](https://img.shields.io/badge/Reconnaissance-🛰️-blue)
 
----
 
 ### 🧰 Tools & Environments  
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux&logoColor=white)
@@ -97,7 +93,6 @@
 ![Hydra](https://img.shields.io/badge/Hydra-BruteForce-red)
 ![HTB Labs](https://img.shields.io/badge/HTB-Labs-black?style=flat-square&logo=hackthebox&logoColor=green)
 
----
 
 ## 📊 GitHub Analytics  
 
@@ -110,7 +105,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gody4u&theme=radical" height="150px"/>
 </p>
 
----
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
