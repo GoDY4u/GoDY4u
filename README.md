@@ -37,25 +37,35 @@
 ### 👨🏻‍💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-2D2DFF?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-Windows%20Batch-F0DB4F?style=for-the-badge&logo=windows&logoColor=black)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![XAML](https://img.shields.io/badge/XAML-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 🧩 Frameworks & Databases
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🛡️ Cybersecurity & Pentesting
 ![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-🧑‍💻-0EA5A4?style=for-the-badge)
 ![Pentesting](https://img.shields.io/badge/Pentesting-⚡-E11D48?style=for-the-badge)
 ![Network Security](https://img.shields.io/badge/Network%20Security-0078D6?style=for-the-badge&logo=fortinet&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web%20Security-🕸️-FF4500?style=for-the-badge)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-800080?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-🔧-FFA500?style=for-the-badge)
@@ -84,7 +94,7 @@
 ![Hydra](https://img.shields.io/badge/Hydra-BruteForce-DC2626?style=for-the-badge)
 
 ### 🧭 Platforms & Labs
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-0EA5A4?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-6D28D9?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![VulnHub](https://img.shields.io/badge/VulnHub-F97316?style=for-the-badge&logo=vulnhub&logoColor=white)
 ![Docker Labs](https://img.shields.io/badge/Docker%20Labs-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -95,12 +105,14 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gody4u&show_icons=true&theme=radical&hide_title=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gody4u&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false&hide_title=true" height="150px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gody4u&layout=compact&theme=radical" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gody4u&theme=radical" height="150px"/>
 </p>
 
+### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gody4u&theme=radical" height="150px"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=gody4u&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
 <!-- Divider -->
