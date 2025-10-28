@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Pentester+and+Cybersecurity+Enthusiast;Windows+Optimization+Specialist;Bash+%26+PowerShell+Scripter;Web+%26+App+Developer;Always+learning+and+improving...">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Pentester+and+Cybersecurity+Enthusiast;Windows+Optimization+Specialist;Bash+%26+PowerShell+Scripter;Web+%26+App+Developer;Always+learning+and+improving...](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=820&height=110&lines=🛡️+Pentester+%26+Cybersecurity+Enthusiast 🔐;⚙️+Windows+Optimization+Specialist ⚡;📟+Bash+%26+PowerShell+Scripter 💻;💾+Web+%26+App+Developer 🌐;🎯+Always+learning+and+improving 🚀)">
   </a>
 </p>
 
