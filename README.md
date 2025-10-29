@@ -1,24 +1,16 @@
 <!-- ReadME -->
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 <p align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=820&height=110&lines=🛡️+Pentester+%26+Cybersecurity+Enthusiast+🔐;⚙️+Windows+Optimization+Specialist+⚡;📟+Bash+%26+PowerShell+Scripter+💻;</>+Web+%26+App+Developer+🌐;🎯+Always+learning+and+improving+🚀" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
   <img src="GoDY-banner.png" alt="GoDY Banner" width="700"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gody4u/gody4u/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gody4u/gody4u/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gody4u/gody4u/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+ <img src="https://profile-readme-generator.com/assets/pacman.svg"/>
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -35,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gody4u&theme=onestar&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=gody4u&theme=radical&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -110,6 +102,9 @@
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-Intentionally%20Vulnerable-red?style=for-the-badge&logo=metasploit&logoColor=white)
 
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</div>
 
 ## 📊 GitHub Analytics  
 
@@ -122,9 +117,5 @@
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=gody4u&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"/>
 </p>
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
