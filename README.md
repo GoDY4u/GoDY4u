@@ -12,12 +12,11 @@
  <img src="https://profile-readme-generator.com/assets/pacman.svg"/>
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<h3 align="center">👾 Pentester | Bash & PowerShell | Windows Optimization Enthusiast | Web & App Developer 👾</h3>
-
+<p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <h3 align="center">👾 Pentester | Bash & PowerShell | Windows Optimization Enthusiast | Web & App Developer 👾</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🏆 GitHub Achievements  
 
